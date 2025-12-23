@@ -15,14 +15,18 @@ innovative web and mobile applications while advancing my career as a frontend d
 
 export const EXPERIENCES = [
   {
+    year: "2025 May - 2025 Dec",
+    role: "Software Engineer ",
+    company: "Directorate of Information Technology (Army HQ)",
+    description: `Developed and maintained web applications using Laravel, ensuring robust, scalable, and efficient backend functionality. Collaborated with cross-functional teams to gather requirements and implement features according to project specifications. Utilized database management, API integrations, and Laravel’s built-in tools to optimize application performance, enhance user experience, and ensure high-quality code standards.`,
+  },
+  {
     year: "2019 - 2020",
     role: "Associate Image Processor",
-    company: "OREL IT  (Kadawatha)",
+    company: "OREL IT (Kadawatha)",
     description: `Processed and analyzed video clips to draw accurate tags and fill metadata attributes, ensuring high-quality data organization and retrieval.
-    Collaborated with cross-functional teams to ensure alignment of tagging and attribute standards with project requirements.Utilized image and video processing tools to enhance, annotate, and categorize visual content for various projects.`,
-    
+    Collaborated with cross-functional teams to ensure alignment of tagging and attribute standards with project requirements. Utilized image and video processing tools to enhance, annotate, and categorize visual content for various projects.`,
   },
- 
 ];
 
 export const PROJECTS = [
@@ -62,7 +66,7 @@ export const PROJECTS = [
     title: "Development of Vanguard University Web",
     image: project5,
     description:
-      "I designed and developed a dynamic university web application featuring user authentication for students and lecturers.",
+      "I developed university web application with user authentication.",
     technologies: ["HTML", "CSS", "Boostrap", "Javascript","PHP"],
     Github:"https://github.com/Shenal-Prasanka/Vanguard-University",
   },
